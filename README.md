@@ -15,11 +15,17 @@ Risu
 JohnYemi
 Wealthokete
   #Alaa
+  #FrancisOye
   #Echelon
   #Jespi
   #Modinat
   #Risu
   #JohnYemi
+  #Adeniyi Ademola
+  #margaret
+  #Modinat
+  #peace nkiruka
+  #yinka
   #Wealthokete
 #Repository will be used to compile our codes and data, and be also used to monitor team progress.
 #Go team-Curie
