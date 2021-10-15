@@ -3,5 +3,5 @@ email=("okekepeace30@gmail.com")
 slack_username = ("@Peace Nkiruka Okeke")
 Biostack= ("Vaccines")
 
-Print(name, email,slack_username, Biostack,
+print(name, email,slack_username, Biostack,
 sep="n\n")
